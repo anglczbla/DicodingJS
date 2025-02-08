@@ -1,6 +1,7 @@
-```text
-username: angelicaizbla
-Goal tahun ini:
+//username:angelicaizbla
+
+
+/* Goal tahun ini:
 1. Belajar JavaScript.
-2. Menjadi Front-End atau Back-End Developer.
-```
+2. Menjadi Front-End atau Back-End Developer. 
+*/
